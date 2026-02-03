@@ -83,7 +83,7 @@ Open index.html in any modern web browser
 
 Click on any image to view it in the modal
 
-live link: 
+live link: https://ankita292006.github.io/gallery_popup/
 
 ✔ No installation or API key required
 
